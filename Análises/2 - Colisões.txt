@@ -1,0 +1,5 @@
+Overflow Progressivo - divisão:		3172570
+Overflow Progressivo - multiplicação:	4911294
+Hash duplo:				1547514
+Hash aberto - divisão:			39582
+Hash aberto - multiplicação:		49495
